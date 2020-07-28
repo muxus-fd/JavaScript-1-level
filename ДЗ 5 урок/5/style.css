@@ -1,0 +1,22 @@
+table{
+	border-collapse: collapse;	
+}
+
+td{
+	height: 30px;
+	width: 30px;
+	border: 2px solid black;
+}
+
+.black {
+	background: black;
+}
+
+.white {
+	background: white;
+}
+
+tr:last-child td:first-child{
+	border-left: none;
+	border-bottom: none;
+}

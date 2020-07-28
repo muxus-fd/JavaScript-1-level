@@ -1,0 +1,13 @@
+
+body{
+	display: flex;
+	padding: 10px;
+}
+.product{
+	margin: 20px;
+	height: 150px;
+}
+button{
+	display: block;
+	margin: 10px;
+}
